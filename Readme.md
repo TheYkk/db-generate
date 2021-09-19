@@ -1,4 +1,5 @@
 # Generate leaked passwords db
+[Source of passwords](https://haveibeenpwned.com/Passwords)
 ```
 wget https://downloads.pwnedpasswords.com/passwords/pwned-passwords-sha1-ordered-by-count-v7.7z
 ```
